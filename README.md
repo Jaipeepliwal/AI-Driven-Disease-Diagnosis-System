@@ -1,1 +1,2 @@
 # AI-Driven-Disease-Diagnosis-System
+With the advancement of artificial intelligence (AI) and machine learning (ML), medical diagnostics have become more accurate and efficient. This project aims to develop an AI-driven system for early disease diagnosis using patient data, medical images, and symptoms. The system will leverage deep learning and NLP to analyze structured and unstructured medical data.
